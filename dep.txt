@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-main code
-=======
 Test code again
->>>>>>> test
